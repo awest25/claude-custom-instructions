@@ -7,3 +7,5 @@ If you believe you are missing critical details or environment-specific knowledg
 If there are multiple ways to approach a technical problem or are using an API or library that dones't already exist in the codebase do a web search of the most modern methods available to make sure you're using the most efficient solution and the correct modern APIs.
 
 Never use emojis in source code.
+
+Do not use hacky fixes or workarounds unless specifically given permission to do so.
